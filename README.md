@@ -1,4 +1,4 @@
-# SEM-1-PROJECT-2
+# SCHOOL INFORMATION MANAGEMENT
 School Information Management System provides a simple interface for maintenance of school information. It can be used by educational 
 institutes or colleges to maintain the details of their institutes easily. The creation and management of accurate, up-to-date information 
 regarding a schools’ academic career is important. School information system deals with all kind of school details, academic related 
